@@ -21,12 +21,26 @@ GitHub kodların bulunduğu depoları yönetmeye yarar.
 
 3. Neden bir branch oluşturuyoruz?
 
+Ana kodları değiştirmeden çalıştırmak amacıyla oluşturulur.
+
 4. Pull Request'in amacı nedir?
+
+Yapılan düzenlemeleri ana koda eklenmesi için onaya göndermektir.
 
 5. Bir Branchten diğerine geçmek için kullandığın KOMUT nedir? Mesela `isim-soyisim` branch'inde çalıştığını hayal et ve main branch'ine geçmek istiyorsun, ne yaparsın?
 
+git checkout ''main''
+
 6. `git fetch`, `git merge` ve `git pull` arasındaki farklıarı açıklayınız. Bu konutlar ne yapar açıklayınız.
+
+git pull repodaki verileri lokale çeker
+git fetch git pulldan farklı olarak birleştirme işlemi olmaz
+git merge branchleri birleştirir
 
 7. Merge conflict nedir?
 
+Aynı kodların farklı zamanlarda değiştirilmesi sonucu oluşan çakışmalar.
+
 8. Merge conflict'i nasıl çözeriz?
+
+Kodlar incelenir çakışan kodlardan birinde karar kılınıp karar kılınan kodu seçerek çözebiliriz
