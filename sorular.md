@@ -12,7 +12,12 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 
 1. Git nedir?
 
+Açık kaynak dağıtılmış kontrol sistemidir
+
 2. Git ile GitHub arasında ne fark var?
+
+Git kaynak dağıtılmış kontrol sistemi GitHub ise bulut tabanlı bir depolama sistemidir.
+GitHub kodların bulunduğu depoları yönetmeye yarar.
 
 3. Neden bir branch oluşturuyoruz?
 
